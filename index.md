@@ -12,7 +12,7 @@ Fraud detection is a set of processes and analyses that allow businesses to iden
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sajankedia/fraud_detection)
 
-<center><img src="images/course.png"/></center>
+<center><img src="assets/img/course.png"/></center>
 
 ### Course Github Demo
 
@@ -21,4 +21,4 @@ It is practise code which i used to test git commit and push , pull , revert , r
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/upgrad-edu/Course)
 
 
-<center><img src="images/course.png"/></center>
+<center><img src="assets/img/course.png"/></center>
